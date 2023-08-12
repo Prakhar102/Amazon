@@ -1,2 +1,3 @@
-# Amazon clone Website using HTML, CSS and JS.
+# Amazon 
+Amazon Clone Website using HTML, CSS and JavaScript.
 
